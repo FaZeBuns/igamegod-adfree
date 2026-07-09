@@ -1,0 +1,11 @@
+Origin: FaZeBuns
+Label: FaZeBuns
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64
+Components: main
+Description: iGameGod-AdFree by Buns
+Date: Thu, 09 Jul 2026 20:40:29 +0000
+SHA256: 446fd26785117b9f37aec118ec22f9d176dd388e736b043a564f3de79ac65d78 706 Packages
+SHA256: 16386e16689b5f51b58826edc58d0e295338f10d1e25b920515110f71d16b418 471 Packages.bz2

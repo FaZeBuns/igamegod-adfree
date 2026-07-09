@@ -6,9 +6,19 @@ Free jailbreak tweak by **Buns** that blocks interstitial ads in iGameGod withou
 
 Not affiliated with iOSGods.
 
-## Install
+## Install in Sileo / Zebra
 
-Download the `.deb` from [Releases](https://github.com/FaZeBuns/igamegod-adfree/releases) and open it in **Sileo** or **Zebra**. Force-quit iGameGod after install.
+Add this repo:
+
+```
+https://fazebuns.github.io/igamegod-adfree/repo/
+```
+
+Then install **iGameGod-AdFree** and force-quit iGameGod.
+
+## Install manually
+
+Download the `.deb` from [Releases](https://github.com/FaZeBuns/igamegod-adfree/releases).
 
 ## License
 
