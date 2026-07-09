@@ -6,6 +6,6 @@ Codename: ios
 Architectures: iphoneos-arm64
 Components: main
 Description: iGameGod-AdFree by Buns
-Date: Thu, 09 Jul 2026 20:50:43 +0000
-SHA256: 446fd26785117b9f37aec118ec22f9d176dd388e736b043a564f3de79ac65d78 706 Packages
-SHA256: 386d742a239da5ee7c237c25ba60c6dfec46eb08a2b4e577866b84cce9f8d4a9 523 Packages.bz2
+Date: Thu, 09 Jul 2026 20:57:32 +0000
+SHA256: a787d7173461589a976a57195d74f3292d55ab3c9f5d19a22d4b64661913a213 712 Packages
+SHA256: 1b1358dfa5e194df7cc64558e6fc93e00f78de13ff9e9c214cc94e5e01a873ae 534 Packages.bz2

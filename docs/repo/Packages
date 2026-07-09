@@ -1,18 +1,18 @@
 Package: com.Bunss.igamegodadfree
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: Buns <fazebunss@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000) | ellekit, firmware (>= 14.0)
 Section: Tweaks
 Priority: optional
-Description: Blocks ads in iGameGod version 0.6.7 only. Not affiliated with iOSGods.
+Description: iGameGod 0.6.7 ONLY — blocks interstitial ads. Not affiliated with iOSGods.
 Name: iGameGod-AdFree
 Author: Buns
 Depiction: https://fazebuns.github.io/igamegod-adfree
 Icon: https://fazebuns.github.io/igamegod-adfree/icon.png
 Filename: ./com.Bunss.igamegodadfree_1.0.0_iphoneos-arm64.deb
-Size: 6720
-MD5sum: 0d4bcf78c5260e39cc35fbe677b4b4da
-SHA1: bb1118d61072fff6c4233775f79d5c41e994d22e
-SHA256: 8d174002561bffc09642c2f2dfcd5c035de8e77381db64590e26d8bb35d8f9fb
+Size: 6716
+MD5sum: b48dafb484b33c372ac24fdf944406af
+SHA1: 7d783537041a0cec32addeda47ad592df3a24e21
+SHA256: e81987ad0e33e6e0775b56904d28409990bfd4adb454be45ce1d3c4647e73d9c
 
