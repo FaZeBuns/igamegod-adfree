@@ -8,14 +8,7 @@ Not affiliated with iOSGods.
 
 ## Install
 
-Download the `.deb` from [Releases](https://github.com/FaZeBuns/igamegod-adfree/releases) and open it in Sileo or Zebra. Force-quit iGameGod after install.
-
-## Build (Theos)
-
-```bash
-export THEOS=~/theos
-make package
-```
+Download the `.deb` from [Releases](https://github.com/FaZeBuns/igamegod-adfree/releases) and open it in **Sileo** or **Zebra**. Force-quit iGameGod after install.
 
 ## License
 
