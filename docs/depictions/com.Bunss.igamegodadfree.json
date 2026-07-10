@@ -1,0 +1,49 @@
+{
+  "minVersion": "0.4",
+  "class": "DepictionTabView",
+  "headerImage": "https://fazebuns.github.io/igamegod-adfree/banner.png",
+  "tintColor": "#c41e3a",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "**iGameGod 0.6.7 ONLY** — blocks interstitial ads in iGameGod without breaking memory search or Live Offset Patcher.\n\nNot affiliated with iOSGods. Free tweak by **Buns**.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Compatible",
+          "text": "iGameGod 0.6.7 · Rootless"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "GitHub Source",
+          "action": "https://github.com/FaZeBuns/igamegod-adfree",
+          "openExternal": 1,
+          "tintColor": "#c41e3a"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Contact Developer",
+          "action": "mailto:fazebunss@gmail.com",
+          "openExternal": 1,
+          "tintColor": "#c41e3a"
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Changelog",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### 1.0.1\n* iGameGod 0.6.7 ONLY description\n* Sileo-only install\n\n### 1.0.0\n* Initial release",
+          "useSpacing": true
+        }
+      ]
+    }
+  ]
+}
